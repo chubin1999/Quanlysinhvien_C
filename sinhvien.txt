@@ -1,0 +1,4 @@
+12245      Nguyen     Van                  Phuc       12         8.00       8.00       9.00       8.33      
+12358      Nguyen     Van                  Phong      12         8.00       8.00       9.00       8.33      
+14789      Nguyen     Thi Tra              My         tk15.7     7.00       6.00       8.00       7.00      
+14785      Duong      Minh                 Tuyen      k18a2      7.00       6.00       8.00       7.00      
